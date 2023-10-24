@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+More Cowbell!
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![saritocat](https://www.dmnews.com/wp-content/uploads/2014/01/best_of_will_ferrell_360_538631.png)
 {: .center}
